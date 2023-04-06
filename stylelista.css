@@ -1,0 +1,47 @@
+#wishlist {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #wishlist li {
+    margin-bottom: 10px;
+   color: red;
+   font-size: xx-large;
+   font-family: cursive;
+  }
+  #wishlist2 {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #wishlist2 li {
+    margin-bottom: 10px;
+    color: green;
+    font-size: xx-large;
+    font-family: cursive;
+  }
+  
+  #add-item-form {
+    margin-top: 70px;
+  }
+body{
+    background-color: khaki;
+    text-align: center;
+}  
+button{
+  
+    background-color: chartreuse;
+    font-size: small;
+    color:red;
+    cursor: pointer;
+}
+#deseo1{
+float:center;
+
+}
+#deseo2{
+float: center;
+
+}
