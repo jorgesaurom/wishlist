@@ -26,6 +26,10 @@
   #add-item-form {
     margin-top: 70px;
   }
+  input{
+    text-align: center;
+    font-family: Tahoma;
+  }
 body{
     background-color: khaki;
     text-align: center;
